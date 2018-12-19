@@ -1,4 +1,4 @@
-Link: https://console.firebase.google.com/u/0/project/react-my-burger-33e2e/hosting/main
+App Link: https://react-my-burger-33e2e.firebaseapp.com/
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
